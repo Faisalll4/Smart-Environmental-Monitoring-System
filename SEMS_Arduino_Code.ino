@@ -4,10 +4,8 @@
  *  MGM University, Aurangabad
  *  Department: Computer Science & IT (GYPC)
  *
- *  Team:
- *    Shaikh Faisal     (Roll No: A0231086)
- *    Bhushan Agnihotri (Roll No: A0231129)
- *    Rupesh Deglur     (Roll No: A0231073)
+ *  Name:
+ *    Shaikh Faisal
  *
  *  Guide: Prof. Pratibha P. Patil
  *         ETC Dept., JNEC, MGM University
