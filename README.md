@@ -3,12 +3,11 @@
 ## Project Overview
 Real-time IoT-based environmental monitoring system built using Arduino UNO.
 
-## Name
+## Name 
 - Shaikh Faisal 
 
-## College
+## University
 MGM University, Aurangabad
-B.Sc. (Honours) Computer Science — IoT Specialization
 
 ## Hardware Used
 - Arduino UNO — Central microcontroller
