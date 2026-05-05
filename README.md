@@ -3,12 +3,6 @@
 ## Project Overview
 Real-time IoT-based environmental monitoring system built using Arduino UNO.
 
-## Name 
-- Shaikh Faisal 
-
-## University
-MGM University, Aurangabad
-
 ## Hardware Used
 - Arduino UNO — Central microcontroller
 - DHT22 — Temperature & Humidity sensor
